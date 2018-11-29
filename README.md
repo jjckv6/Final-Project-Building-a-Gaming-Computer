@@ -26,10 +26,10 @@ First start with what gaming computers are and used for
  ⋅⋅* GPUs are the parts that make gamers the most excited becasue they are the part that takes the most stress from the graphics of gaming and allows players to play games smoothly on the highest graphics settings. There are a lot of GPUs on the market but the two main companies are Nvidia and AMD. I only used Nvidia GPUs so I will speak on them and they are pretty stright foward. They have different gereations for their GPUs:Pre-GeForce, GeForce 256 series, GeForce2 series, GeForce3 series, GeForce4 series, GeForce FX (5xxx) series, GeForce 6 - 9 (6xxx - 9xxx) series, GeForce 100 - 700, 900 series, Volta series, and the GeForce 10 - 20 series. But the viable ones for this day and age of gaming is GeForce 7XX series and up. The GeForce 750 Ti is a great starter GPU for about $150 and if money is not an issue than the beast of a GPU GeForce 2080 Ti with realtime raytracing which is the lastest revolution in gaming which allows actual reflections in-game, this will set you back about $1000.
  
 #### Power Supply
- ⋅⋅* Differnt wattage and how much is genrally needed
+ ⋅⋅* For the power supply you want at least 450 watts for you gaming pc but if you have a much more high end pc you will need more power. They are pretty stright foward. A good starter power suppy is the Bitfenix BF450G at $60 but for more wattage you can buy the Seasonic SSR-600TL for about $200.
 
 #### Cooling
-  ⋅⋅* Types of cooling and which is best for gaming
+  ⋅⋅* For cool you want to have a good amount of fans to keep the system cool and a seperate fan or liquate cooling for the CPU because all the parts in the PC create heat and that can damage the system over time. A lot of people have about 6 fans built into the case of the PC to keep it cool and buy a cooling system for the CPU which will be about $55 for the MSI CPU Core FrozR L Cooler or Arctic Liquid Freezer 120 $85.
 
 #### Case
   ⋅⋅* 
