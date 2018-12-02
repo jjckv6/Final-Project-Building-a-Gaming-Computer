@@ -4,7 +4,7 @@
 
 First start with what gaming computers are and used for
 
-![alt text](https://i0.wp.com/www.xtremegaminerd.com/wp-content/uploads/2017/06/ASUS-ROG-STRIX-Z270E-GAMING.jpg?resize=600%2C726)
+![alt text](https://images-na.ssl-images-amazon.com/images/I/51jOljMbc%2BL._SL500_AC_SS350_.jpg)
 #### Motherboard
    The [motherboard](https://whatis.techtarget.com/definition/motherboard) is the command center of the computer. It allows the communcation between many important parts of the computer while holding them in place. In gaming the motherboard is a critical part of the build because it determines the power of the other parts that can be placed on it. In other words, if you have better motherboard you can place better parts on it. On the low end you may spend about $60 for a ASRock B450M-HDV motherboard or $350 for the high end Asus ROG Maximus XI Code Z390 Gaming with all the bells and whistles.
 
